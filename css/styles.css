@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url('/Users/simethedime/Desktop/untitledfolder/Week3/Images/restaurant-logo_large.png') no-repeat;
+  background: url('../Images/restaurant-logo_large.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
@@ -132,11 +132,11 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile {
-  background: url('/Users/simethedime/Desktop/untitledfolder/Week3/Images/menu-tile.jpeg') no-repeat;
+  background: url('../Images/menu-tile.jpeg') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('/Users/simethedime/Desktop/untitledfolder/Week3/Images/specials-tile.jpeg') no-repeat;
+  background: url('../Images/specials-tile.jpeg') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
@@ -251,7 +251,7 @@ h3.menu-item-title {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('/Users/simethedime/Desktop/untitledfolder/Week3/Images/jumbotron_992.jpeg') no-repeat;
+    background: url('../Images/jumbotron_992.jpeg') no-repeat;
     height: 558px;
   }
   /* End Home Page */
@@ -261,7 +261,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('/Users/simethedime/Desktop/untitledfolder/Week3/Images/jumbotron_768.jpeg') no-repeat;
+    background: url('../Images/jumbotron_768.jpeg') no-repeat;
     height: 432px;
   }
   /* End Home Page */
